@@ -1,0 +1,15 @@
+---- PADRÃO DE PROJETO ----
+
+SITE -> refactoring guru
+
+TIPOS DE PADRÕES DE PROJETO 
+
+-> Factory
+-> Builder
+-> Singleton
+-> Iterator_after / Iterator_before
+-> Observer
+-> Strategy
+-> Facade
+-> Adapter
+
