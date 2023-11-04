@@ -3,6 +3,7 @@
 ## Salvando Alteração no GIT
 
 * comando git push
+* comando git pull
 
 class Calculadora():
     def __init__(self, operador) -> None:
