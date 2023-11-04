@@ -2,6 +2,8 @@
 
 ## Salvando Alteração no GIT
 
+* comando git push
+
 class Calculadora():
     def __init__(self, operador) -> None:
         self.operador = operador
