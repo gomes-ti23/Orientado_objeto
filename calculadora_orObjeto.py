@@ -1,5 +1,7 @@
 ##GRAVANDO MUDANÇAS DE REPOSITÓRIO##
 
+## Salvando Alteração no GIT
+
 class Calculadora():
     def __init__(self, operador) -> None:
         self.operador = operador
